@@ -2,5 +2,5 @@
 CNN Study using Pytorch. Mnist Dataset
 
 Data
-- Download by pytorch dataset
+- Download MNIST-data from pytorch dataset
 - Image in 'image' folder is handmade drawing
